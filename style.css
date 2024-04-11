@@ -1,0 +1,10 @@
+.container-fluid .row .col{
+border: 2px solid black;
+background-color: aliceblue;
+}
+
+.margin
+{
+    margin-top: 40%;
+
+}
